@@ -8,7 +8,13 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['var(--font-fk-grotesk)'],
+        sans: ['FK Grotesk', 'system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif'],
+      },
+      fontWeight: {
+        normal: 400,
+        medium: 500,
+        bold: 500, // Use medium weight for bold
+        semibold: 500, // Use medium weight for semibold
       },
       colors: {
         black: '#000000',
