@@ -21,7 +21,7 @@ const Header: React.FC<HeaderProps> = ({ activeTab, setActiveTab }) => {
     { name: 'GET CONNECTED', href: '/' },
     { 
       name: 'PROTOCOL REWARDS', 
-      href: 'https://protocol-rewards.vercel.app',
+      href: 'https://nearprotocolrewards.com',
       isExternal: true,
       highlight: true 
     },
