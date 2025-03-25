@@ -58,7 +58,7 @@ const ProgramDetails: React.FC = () => {
         {/* Right Column - Program Details */}
         <div className="w-full md:w-1/2">
           <h1 className="text-2xl md:text-3xl font-bold mb-4 md:mb-6">
-            <span className="text-[#9696FE]">AI + HZN Batch II</span> starts October 14th, 2024
+            <span className="text-[#9696FE]">AI + HZN Batch II</span> coming soon 
           </h1>
           <p className="mb-4 md:mb-6 text-sm md:text-base">
             Empowering top-tier AI and blockchain founders with resources and support.
@@ -68,7 +68,7 @@ const ProgramDetails: React.FC = () => {
 
           <div className="space-y-3 md:space-y-4 mb-6 md:mb-8">
             <div>
-              <p className="font-semibold mb-1 text-sm md:text-base">Start Date: October 14th, 2024</p>
+              <p className="font-semibold mb-1 text-sm md:text-base">Start Date: Coming Soon</p>
               <p className="text-sm md:text-base">Time Commitment: 3-5 hours per week</p>
             </div>
             <p className="text-sm md:text-base">
